@@ -6,4 +6,4 @@
 
 +  Norton has been on the faculty of Worcester Polytechnic Institute since 1981 and is currently the Milton P. Higgins II Distinguished Professor of Mechanical Engineering, Russell P. Searle Distinguished Instructor, Head of the Design Group in that department, and the Director of the Gillette Project Center at WPI. He teaches undergraduate and graduate courses in mechanical engineering with emphasis on design, kinematics, vibrations, and dynamics of machinery
 
-<img src="https://github.com/AlainaNorth/norton-theory-of-machines/blob/main/dl.png"/>
+[<img src="https://github.com/AlainaNorth/norton-theory-of-machines/blob/main/dl.png"/>](https://drawingablank.shop/?keyword=norton_theory_pdf)
